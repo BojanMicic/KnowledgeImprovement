@@ -14,6 +14,7 @@ describe('deezer', function() {
 
     element(by.buttonText('Log in')).click();
 
+      
 /*
     browser.ignoreSynchronization = false;
     
