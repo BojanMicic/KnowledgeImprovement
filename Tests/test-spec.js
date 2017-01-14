@@ -13,6 +13,7 @@ describe('deezer', function() {
     //innerDoc.element(by.css('[id="register_form_mail_input"]')).sendKeys('blaaaaa');
 
     element(by.buttonText('Log in')).click();
+
 /*
     browser.ignoreSynchronization = false;
     
